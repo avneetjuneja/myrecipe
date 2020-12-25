@@ -1,5 +1,6 @@
 Rainbow Cake!
-Ingredients:
+
+* Ingredients:
 2 1/2 cups of white granulated sugar
 1 cup butter (softened)
 3 eggs
@@ -11,7 +12,7 @@ Ingredients:
 1/2 tsp salt
 Food coloring: red, yellow, blue, green, violet.
 
-Frosting:
+* Frosting:
 12 oz cream cheese (softened)
 1 1/2 cups butter (softened, do not melt)
 6 cups of powdered sugar
